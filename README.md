@@ -11,7 +11,7 @@ This is a Spring Boot project intended to be deployed on AWS.
 ```bash
 ./mvnw spring-boot:run
 
-```bash
+## How to run locally
 .............................................................................................................................................................................
 
 Basic instructions for deploying Spring Boot project on AWS
