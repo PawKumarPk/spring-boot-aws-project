@@ -11,26 +11,10 @@ This is a Spring Boot project intended to be deployed on AWS.
 ```bash
 ./mvnw spring-boot:run
 
+.............................................................................................................................................................................
 
+Basic instructions for deploying Spring Boot project on AWS
 
----
-
-## 📌 Important Rules:
-- `#` to `######` → heading levels 1 to 6
-- `**text**` → bold
-- Combine `#` + `** **` for **big bold headings**
-
----
-
-## 🎁 Bonus Example:
-
-```markdown
-## 📌 **Important Note**
-
-**✅ You must open port 8080 in your AWS EC2 Security Group for public access.**
-
-
-#######Basic instructions for deploying Spring Boot project on AWS
 Here’s a simple way to deploy your Spring Boot app on AWS EC2:
 
 _Step A: Package your app as a jar_
