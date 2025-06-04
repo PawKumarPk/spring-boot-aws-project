@@ -7,12 +7,7 @@ This is a Spring Boot project intended to be deployed on AWS.
 - AWS deployment ready
 - Dockerized (optional)
 
-## How to run locally
-```bash
-./mvnw spring-boot:run
-
-## How to run locally
-.............................................................................................................................................................................
+## AWS SETUP
 
 Basic instructions for deploying Spring Boot project on AWS
 
