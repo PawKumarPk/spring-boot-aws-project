@@ -11,18 +11,17 @@ This is a Spring Boot project intended to be deployed on AWS.
 ```bash
 ./mvnw spring-boot:run
 
-
-## Basic instructions for deploying Spring Boot project on AWS
+_## Basic instructions for deploying Spring Boot project on AWS_
 Here’s a simple way to deploy your Spring Boot app on AWS EC2:
 
-Step A: Package your app as a jar
+_Step A: Package your app as a jar_
 ```bash
 
 ./mvnw clean package
 
 This will create a jar file inside the target/ folder, e.g., spring-boot-aws-project-0.0.1-SNAPSHOT.jar.
 
-Step B: Create an EC2 instance on AWS
+_Step B: Create an EC2 instance on AWS_
 Go to AWS Management Console → EC2 → Launch Instance.
 
 Choose Amazon Linux 2 or Ubuntu.
